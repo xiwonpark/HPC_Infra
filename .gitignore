@@ -1,5 +1,5 @@
 # HPC_Infra
-HPC_Infra/stg/.terraform
-HPC_Infra/stg/.terraform.lock.hcl
-HPC_Infra/stg/terraform.tfstate
-HPC_Infra/stg/terraform.tfstate.backup
+stg/.terraform
+stg/.terraform.lock.hcl
+stg/terraform.tfstate
+stg/terraform.tfstate.backup
